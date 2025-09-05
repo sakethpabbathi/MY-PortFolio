@@ -876,9 +876,9 @@ const App = () => {
 
       <footer className="footer">
         <div className="footer-content">
-          <p className="footer-text">
+          {/* <p className="footer-text">
             Crafted with <i className="fas fa-heart text-red-500"></i> by Pabbathi Saketh.
-          </p>
+          </p> */}
           <div className="social-links">
             <a href="https://github.com/sakethpabbathi" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-github"></i>
